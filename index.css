@@ -1,0 +1,12 @@
+.page {
+    padding: 40px 20px;
+}
+
+.file-field .btn {
+    min-width: 250px;
+}
+
+.submit-button-container {
+    display: flex;
+    flex-direction: column-reverse;
+}
